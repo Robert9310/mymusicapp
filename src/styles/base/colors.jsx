@@ -1,0 +1,6 @@
+const PRIMARY_GREEN = "#1AB954"
+const WHITE = "#FFFFFF";
+const BLACK = "#000000"
+
+
+export  {PRIMARY_GREEN, WHITE, BLACK};
